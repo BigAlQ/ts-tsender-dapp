@@ -1,6 +1,6 @@
 1. Create a basic react/nextjs application ✅
 
-2. Connect our wallet, with a nicer connect application
+2. Connect our wallet, with a nicer connect application ✅
 
 3. Implement this function:
 
